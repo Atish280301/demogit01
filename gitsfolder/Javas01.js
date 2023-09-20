@@ -1,0 +1,1 @@
+console.log("folder's file Javas01.js file");
